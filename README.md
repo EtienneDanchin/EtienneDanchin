@@ -17,6 +17,7 @@ I am an INRAE 🌱 (French national research institute for agriculture, food & e
 
 86) Vaz Moreira VJ, Pinheiro DH, Lourenço-Tessutti IT, Basso MF, Lisei-de-Sa ME, Morgante C V, Silva MCM, Danchin EGJ, Guimarães PM, Grynberg P, Brasileiro ACM, Macedo LLP, de Almeida Engler J, Grossi-de-Sa MF. In planta RNAi targeting Meloidogyne incognita Minc16803 gene perturbs nematode parasitism and reduces plant susceptibility. Journal Of Pest Science. 2023 (View Online).
 ```
+
 2022
 ```
 85) Koutsovoulos G, Granjeon Noriot S, Bailly-Bechet M, Danchin EGJ and Rancurel C. AvP: a software package for automatic phylogenetic detection of candidate horizontal gene transfers. PLoS Computational Biology. 2022 (View Online).
