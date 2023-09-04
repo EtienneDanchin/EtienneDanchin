@@ -12,7 +12,7 @@ I am an INRAE 🌱 (French national research institute for agriculture, food & e
 
 ## Publications
  2023
-
+```
 87) Bovio E, Rancurel C, Seassau A, Magliano M, Gislard M, Loisier A, Kuchly C, Ponchet M, Danchin EGJ, Van Ghelder C. Genome sequence and annotation of Periconia digitata, a promising biocontrol agent of phytopathogenic oomycetes. BioRxiv 2023 (View Online). –> Accepted in Scientific Data.
 
 86) Vaz Moreira VJ, Pinheiro DH, Lourenço-Tessutti IT, Basso MF, Lisei-de-Sa ME, Morgante C V, Silva MCM, Danchin EGJ, Guimarães PM, Grynberg P, Brasileiro ACM, Macedo LLP, de Almeida Engler J, Grossi-de-Sa MF. In planta RNAi targeting Meloidogyne incognita Minc16803 gene perturbs nematode parasitism and reduces plant susceptibility. Journal Of Pest Science. 2023 (View Online).
@@ -207,7 +207,7 @@ Matsumoto T, Danchin EGJ, Baum TJ, Eves-van den Akker S, Nemchinovet LG. Targete
 2) Vienne A, Shiina T, Abi Rached L, Danchin E, Vitiello V, Cartault F, Inoko H, P Pontarotti. Evolution of the proto-MHC ancestral region: more evidence for the plesiomorphic organisation of human chromosome 9q34 region. Immunogenetics. 2003 Oct;55(7):429-36. (View Online)
 
 1) Danchin EG, Abi-Rached L, Gilles A, Pontarotti P. Conservation of the MHC-like region throughout evolution. Immunogenetics. 2003 Jun;55(3):141-8. (View Online)
-
+```
  
 Higly cited paper explanation
 
